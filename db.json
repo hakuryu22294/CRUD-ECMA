@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Iphone XS Max",
+      "price": "200",
+      "desc": "Mo ta cho san pham iphone111qq",
+      "id": "S3-2AVX"
+    },
+    {
+      "name": "Hakuryu",
+      "price": "121223",
+      "desc": "qweasdasdasdasd",
+      "id": "gbClJ-B"
+    },
+    {
+      "name": "Iphone XS Max",
+      "price": "200",
+      "desc": "Mo ta cho san pham iphone111qq",
+      "id": "sfu8L0x"
+    },
+    {
+      "name": "1",
+      "price": "123",
+      "desc": "adqweqeqeqwew",
+      "id": "9qb_vJd"
+    },
+    {
+      "name": "123",
+      "price": "123123213123",
+      "desc": "qeqwasdaxczxczxczx",
+      "id": "_Zsl3Ub"
+    }
+  ]
+}
